@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjercicioNotificaciones</string>
+    <string name="comprobar">Comprobar</string>
+    <string name="operacion">OPERACION</string>
+    <string name="validate">validate</string>
+    <string name="correct">CORRECT</string>
+</resources>
